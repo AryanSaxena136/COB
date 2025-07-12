@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sensor-1",
+    "depth": 45.2,
+    "quality": 7.2,
+    "timestamp": "2023-07-12T08:30:00Z",
+    "location": "12.9716,77.5946",
+    "village": "Bengaluru Rural"
+  },
+  {
+    "id": "sensor-2",
+    "depth": 38.7,
+    "quality": 7.8,
+    "timestamp": "2023-07-12T08:25:00Z",
+    "location": "12.9716,77.5946",
+    "village": "Bengaluru Rural"
+  },
+  {
+    "id": "sensor-3",
+    "depth": 42.1,
+    "quality": 6.9,
+    "timestamp": "2023-07-12T08:20:00Z",
+    "location": "12.9716,77.5946",
+    "village": "Bengaluru Rural"
+  }
+]
