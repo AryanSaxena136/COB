@@ -1,0 +1,38 @@
+├── public/
+│   └── sensors.json (sample data)
+├── src/
+│   ├── components/
+│   │   ├── auth/
+│   │   │   ├── LoginForm.tsx
+│   │   │   └── SignupForm.tsx
+│   │   ├── dashboard/
+│   │   │   ├── AquiferMap.tsx
+│   │   │   ├── ForecastChart.tsx
+│   │   │   ├── RealtimeGauge.tsx
+│   │   │   └── WaterCredits.tsx
+│   │   ├── layout/
+│   │   │   ├── Header.tsx
+│   │   │   └── Sidebar.tsx
+│   │   └── ui/
+│   │       ├── AnimatedCounter.tsx
+│   │       └── LoadingSpinner.tsx
+│   ├── context/
+│   │   ├── AuthContext.tsx
+│   │   └── SensorContext.tsx
+│   ├── lib/
+│   │   ├── analytics.ts
+│   │   ├── api.ts
+│   │   └── supabase.ts
+│   ├── pages/
+│   │   ├── dashboard/
+│   │   │   ├── index.tsx
+│   │   │   └── onboarding.tsx
+│   │   ├── _app.tsx
+│   │   ├── _document.tsx
+│   │   ├── index.tsx
+│   │   ├── login.tsx
+│   │   └── signup.tsx
+│   ├── styles/
+│   │   └── globals.css
+│   └── types/
+│       └── types.ts
